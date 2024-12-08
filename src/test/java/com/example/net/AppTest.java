@@ -20,5 +20,6 @@ class AppTest {
     @Test
     void testApp() {
         assertEquals("High", task.checkDuration());
+        assertEquals(1,1);
     }
 }
